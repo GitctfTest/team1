@@ -8,6 +8,7 @@ int main()
     char buf[256];
     while (1)
     {
+			//test
         gets(buf);
         system(buf);
         fflush(stdout);
